@@ -10,6 +10,3 @@ You can check the task by looking the document [Assignments AA 2016-2017.pdf](ht
 * The last document is the GANTT that describe the time that is required to develop the application.
 ## Contributor
 The project has been developed by [Me](https://github.com/istoony), [Andrea Facchini](https://github.com/AndreF010203) and [Andrea Milanta](https://github.com/AndreaMilanta).
-
-The final document is a .docx document
-All changes can be seen on the ononymous .md document
